@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Pacifico', cursive;
+
+}
+h1{
+    font-family: Arial Rounded MT Bold;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.815);
+
+}
+label{
+    font-family: Arial Rounded MT Bold;
+    background-color: rgba(255, 255, 255, 0.815);
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(4, 0, 255);
+    padding: 20px 20px  20px;
+    font-size: 20px;
+    
+ 
+}
+input{
+    font-family: Arial Rounded MT Bold;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 20, 118);
+    padding: 20px 20px  20px;
+    font-size: 20px;
+}
+textarea{
+    font-family: Arial Rounded MT Bold;
+    border: 2px solid rgb(0, 20, 118);
+    padding: 20px 20px  20px;
+    font-size: 20px;
+}
+button{
+    font-family: Arial Rounded MT Bold;
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(0, 20, 118);
+    border-radius: 10px;
+    background-color: rgba(252, 250, 255, 0.815);
+    padding: 20px 20px  20px;
+    font-size: 20px;
+    background-color: rgba(232, 229, 36, 0.871);
+}
+p{
+    font-family: Arial Rounded MT Bold;
+    color: rgb(0, 8, 255);
+    font-size: 40px;
+}
